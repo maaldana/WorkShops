@@ -1,6 +1,6 @@
 # Ejercicio 1
 
-Montar un contenedor imagen de Apache
+Montar un contenedor de Apache
 
 ---
 
