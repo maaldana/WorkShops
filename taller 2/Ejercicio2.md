@@ -44,3 +44,7 @@ En este ejercicio vamos a crear una imagen de Docker para un aplicativo creado e
 ```
 > docker images
 ```
+
+```
+docker run -it -p 80:80 imagen_web_php
+```
